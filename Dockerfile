@@ -4,3 +4,7 @@ ADD target/spring-arraylist-employee-docker.jar spring-arraylist-employee-docker
 ENTRYPOINT ["java","-jar","/spring-arraylist-employee-docker.jar"]
 
 
+
+
+
+
